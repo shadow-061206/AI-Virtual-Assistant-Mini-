@@ -1,10 +1,3 @@
-"""
-Task 8: AI Virtual Assistant (Mini)
-Install first:  pip install speechrecognition pyttsx3 pyaudio
-
-Loop: listen -> recognize -> match command -> act -> speak
-"""
-
 import datetime
 import os
 import random
